@@ -2,7 +2,8 @@
 
 - I'm from Almaty/Kazakhstan
 - I'm Software Engineer with a focus on Frontend
-- 
+- Worked at Reddit Inc.
+- Marathon runner
 
 <!--
 **tmdautov/tmdautov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
