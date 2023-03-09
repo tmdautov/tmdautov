@@ -2,7 +2,6 @@
 
 - I'm from Almaty/Kazakhstan
 - Software Engineer with a focus on Frontend
-- Worked at Reddit Inc.
 - Marathon Runner
 
 
