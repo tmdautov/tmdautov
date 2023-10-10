@@ -3,6 +3,7 @@
 - I'm from Almaty/Kazakhstan
 - Software Engineer with a focus on Frontend
 - I'm pretty good with: Javascript, Typescript, React/Redux, Angular/NgRx, NodeJS/NestJS/ExpressJS
+- I'm currently learning: Python and Django Framework
 - I'm a Marathon Runner
 
 
