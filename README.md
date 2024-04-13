@@ -6,6 +6,7 @@
 - I'm currently learning: Python and Django Framework
 - I'm a Marathon Runner
 - I have a blog: [tmdautov.com](https://tmdautov.com/)
+- I'm writing a Frontend Interview Handbook: [zenfrontend](https://zenfrontend.com/)
 
 
 <!--
