@@ -5,10 +5,9 @@
 - I'm pretty good with: Javascript, Typescript, React/Redux, Angular/NgRx, NodeJS/NestJS/ExpressJS
 - I'm currently learning: Python and Django Framework
 - I'm a Marathon Runner
-- I have a blog: [tmdautov.com](https://tmdautov.com/)
-- I'm writing a Frontend Interview Handbook: [zenfrontend.com](https://zenfrontend.com/)
 
 
 ## Projects
-
+- [Personal Blog](https://tmdautov.com/)
+- [Frontend Interview Survival Guide](https://zenfrontend.com/)
 - [Running Pace Calculator](https://runcalculator.vercel.app)
